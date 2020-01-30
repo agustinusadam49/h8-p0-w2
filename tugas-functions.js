@@ -12,7 +12,7 @@ console.log(hasilPerkalian);
 
 // TUGAS 3
 var processSentence = (nama, umur, alamat, hobi) => {
-    bio = `Nama saya ${nama}, umur saya ${umur} tahun, alamat saya di ${alamat}, dan saya punya hobby yaitu ${hobi}`
+    bio = `Nama saya ${nama}, umur saya ${umur} tahun, alamat saya di ${alamat}, dan saya punya hobby yaitu ${hobi}!`
     return bio
 }
 
