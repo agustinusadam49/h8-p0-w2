@@ -1,4 +1,4 @@
-// Konversi Menit ke jam digital
+// Logic Challenge - Konversi Menit
 function konversiMenit(menit) {
     var jam = menit / 60;
     var menitSisa = menit % 60;
