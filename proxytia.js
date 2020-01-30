@@ -1,8 +1,8 @@
 // Exercise 3 : Mengenal penggunaan Conditional if-else dalam JavaScript
 
 // Deklarasi variable nama & peran
-let nama = 'Adam';
-let peran = 'Tabib';
+let nama = 'aa';
+let peran = '';
 
 // Cek variable nama & peran terisi jika peran adalah Ksatria
 if (nama && peran === 'Ksatria') {
